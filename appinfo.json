@@ -1,0 +1,45 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "JIATN",
+    "longName": "MimeStone",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/iconagain.png",
+                "menuIcon": true,
+                "name": "ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/sad.png",
+                "name": "SAD",
+                "type": "png"
+            },
+            {
+                "file": "images/neutral.png",
+                "name": "NEUTRAL",
+                "type": "png"
+            },
+            {
+                "file": "images/happy.png",
+                "name": "HAPPY",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "MimeStone",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "4ca209d0-f6dd-40dc-a859-ebc79bbb56cd",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

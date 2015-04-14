@@ -1,4 +1,4 @@
-# MimeStorm
+# MimeStone
 A game of gesture based mimicry and dexterity built on top of the pebble wearable tech
 
 This code was created by Dustin Ryan - Roepsch and Brandon English during the spring 2015 HackISU. This game is for the pebble series of smartwatches and we hope all who play it enjoy it! You can find it on the pebble store under the title "MimeStorm".
